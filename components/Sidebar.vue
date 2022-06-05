@@ -35,11 +35,11 @@ const friendLink = await $fetch('/api/friend-link')
 
     <div class="mt-36px">
       <h3 class="text-xl">
-        加入我们
+        扫描它，然后加入我
       </h3>
 
-      <div class="mt-16px opacity-70">
-        添加微信号 `Hongbusi16530`，了解更多。
+      <div class="mt-16px border border-gray-200 dark:border-gray-200/20">
+        <img class="w-full" src="https://hongbusi.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg" alt="">
       </div>
     </div>
 
@@ -67,10 +67,10 @@ const friendLink = await $fetch('/api/friend-link')
       </h3>
 
       <div class="mt-16px opacity-70">
-        Vue 实例挂载的过程中发生了什么?
+        let，const，var的区别？
       </div>
 
-      <a class="btn-primary-small mt-16px" href="https://github.com/developer-plus/interview/issues/1" target="_blank">
+      <a class="btn-primary-small mt-16px" href="https://github.com/developer-plus/interview/issues/7" target="_blank">
         前往答题
       </a>
     </div>
